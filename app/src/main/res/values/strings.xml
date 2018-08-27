@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">myFacebook</string>
+
+        <string-array name="Title">
+            <item>Putrajaya</item>
+            <item>Kuala Lumpur</item>
+            <item>Batu Caves</item>
+        </string-array>
+
+    <string-array name="Desription">
+        <item> Putrajaya have Masjid Putra </item>
+        <item> KualaLumpur have KLCC</item>
+        <item> Gua yang banyak tangga</item>
+    </string-array>
+
+    <string-array name="picture">
+        <item>@drawable/putra</item>
+        <item>@drawable/klcc</item>
+        <item>@drawable/batu</item>
+
+    </string-array>
+
+</resources>
